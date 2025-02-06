@@ -1,9 +1,9 @@
-Overview
+Overview:
 
-This project aims to develop an Optical Character Recognition (OCR) system for recognizing Arabic handwritten characters. Using machine learning techniques, we train a model to classify Arabic letters from handwritten images, facilitating text recognition and digitization of handwritten Arabic scripts.
+This project aims to develop an Optical Character Recognition (OCR) system for recognizing Arabic handwritten characters. Using machine learning techniques, we train a model to classify Arabic letters from handwritten images, digitization of handwritten Arabic scripts.
 
-Dataset
+Dataset:
 
-We utilize the Arabic Handwritten Characters Dataset (AHCD) available on Kaggle. The dataset consists of labeled Arabic character images, aiding in supervised learning tasks.
+I used the Arabic Handwritten Characters Dataset (AHCD) available on Kaggle. The dataset consists of labeled Arabic character images, it helps with supervised learning tasks.
 
-Dataset Link: AHCD on Kaggle
+Dataset Link: https://www.kaggle.com/datasets/mloey1/ahcd1/data
